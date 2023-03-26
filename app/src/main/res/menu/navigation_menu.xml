@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:icon="@drawable/ic_account"
+        android:id="@+id/nav_account"
+        android:title="My Account" />
+
+    <item
+        android:icon="@drawable/ic_message"
+        android:id="@+id/nav_message"
+        android:title="Message"/>
+
+    <item
+        android:icon="@drawable/ic_settings"
+        android:id="@+id/nav_settings"
+        android:title="Settings" />
+
+    <item
+        android:icon="@drawable/ic_logout"
+        android:id="@+id/nav_logout"
+        android:title="Logout" />
+
+</menu>
